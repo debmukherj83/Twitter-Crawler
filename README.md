@@ -5,3 +5,6 @@ the date restriction of Tweepy.
 
 The program creates a new file for each date range selected. The current code version has date range = 1; so it creates a new file for each day. 
 There is another file "Consolidated.py" which will consolidate all the individual csv files into one file.
+
+Thanks 
+Deb
